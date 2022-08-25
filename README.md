@@ -1,2 +1,2 @@
 # Student-management-app
-This repo consist of student management app for the assesgnment
+This repositery consist of student management app for the assesgnment given by specific company.
